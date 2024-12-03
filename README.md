@@ -9,7 +9,7 @@ The repository is organized into categories based on the type of problem or solu
 
 All solutions are written in **Java**.
 
-## 1. arrays
+## 1. Arrays
 
   - Array Reverse
   - Linear Search
