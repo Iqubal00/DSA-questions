@@ -15,6 +15,7 @@ All solutions are written in **Java**.
   - Linear Search
   - Binary Search
   - Greatest and Smallest Element
+  - Delete an Element
 
 
 
